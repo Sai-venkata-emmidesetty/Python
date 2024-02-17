@@ -1,0 +1,10 @@
+This program for Bidding
+
+-> Pls go through the flow chart for this program.
+
+->The final output will display the highest bidder name with the amount to be paid.:)
+
+
+
+
+
